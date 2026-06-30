@@ -42,21 +42,25 @@ react-todo-app
 ├──src
 │   │
 │   ├──components
-│   ├── Heading.jsx
-│   ├── AddTodo.jsx
-│   ├── TodoItem.jsx
-│   ├── TodoItems.jsx
-│   └── WelcomeMsg.jsx
+│   │      ├── Heading.jsx
+│   │      ├── AddTodo.jsx
+│   │      ├── TodoItem.jsx
+│   │      ├── TodoItems.jsx
+│   │      └── WelcomeMsg.jsx
+│   │      └── WelcomeMsg.module.css
+│   │      └── store
+│   │             └──TodoItemsContext.jsx
 │   │
-│   └──components/store
-│   └──TodoItemsContext.jsx
+│   └──App.jsx
+│   └──main.jsx
+│   └──App.css
 │
 ├──screenshots
 │    │
 │    ├──home.png
 │    ├──todo-added.png
 │
-│
+
 ```
 
 ## 👨‍💻 Author
