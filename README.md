@@ -5,8 +5,8 @@ This project allows users to add and delete todo tasks with a clean user interfa
 
 ## 📸 Previews
 
-[!UI](./screenshots/home.png)
-[!Add-Todo](./screenshots/todo-added.png)
+![UI](./screenshots/home.png)
+![Add-Todo](./screenshots/todo-added.png)
 
 ## 🔗 Live Demo
 
