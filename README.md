@@ -1,16 +1,44 @@
-# React + Vite
+# React Todo App 🚀
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple and responsive Todo application built with React JS.  
+This project allows users to add and delete todo tasks with a clean user interface.
 
-Currently, two official plugins are available:
+## 🔗 Live Demo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+https://KG-SE.github.io/react-todo-app/
 
-## React Compiler
+## 📌 Features
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- Add new todo items
+- Delete todo items
+- Manage application state using Context API
+- State management with useReducer
+- Component-based architecture
+- Responsive UI using Bootstrap
 
-## Expanding the ESLint configuration
+## 🛠️ Technologies Used
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- HTML5
+- CSS3
+- JavaScript (ES6)
+- React JS
+- Context API
+- useReducer
+- Bootstrap
+- React Icons
+- Vite
+
+  ## 📂 Project Structure
+```bash
+src
+│
+├── components
+│ ├── Heading.jsx
+│ ├── AddTodo.jsx
+│ ├── TodoItem.jsx
+│ ├── TodoItems.jsx
+│ └── WelcomeMsg.jsx
+│
+└── components/store
+└── TodoItemsContext.jsx
+```
