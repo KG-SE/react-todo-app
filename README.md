@@ -3,6 +3,13 @@
 A simple and responsive Todo application built with React JS.  
 This project allows users to add and delete todo tasks with a clean user interface.
 
+## 📸 Previews
+
+![UI]
+(./screenshots/home.png)
+![Add-Todo]
+(./screenshots/todo-added.png)
+
 ## 🔗 Live Demo
 
 https://KG-SE.github.io/react-todo-app/
@@ -29,16 +36,35 @@ https://KG-SE.github.io/react-todo-app/
 - Vite
 
   ## 📂 Project Structure
+
 ```bash
-src
+react-todo-app
 │
-├── components
-│ ├── Heading.jsx
-│ ├── AddTodo.jsx
-│ ├── TodoItem.jsx
-│ ├── TodoItems.jsx
-│ └── WelcomeMsg.jsx
+├──src
+│   │
+│   ├──components
+│   ├── Heading.jsx
+│   ├── AddTodo.jsx
+│   ├── TodoItem.jsx
+│   ├── TodoItems.jsx
+│   └── WelcomeMsg.jsx
+│   │
+│   └──components/store
+│   └──TodoItemsContext.jsx
 │
-└── components/store
-└── TodoItemsContext.jsx
+├──screenshots
+│    │
+│    ├──home.png
+│    ├──todo-added.png
+│
+│
 ```
+
+## 👨‍💻 Author
+
+**Kashan Ghori**  
+🔗 https://github.com/KG-SE
+
+---
+
+💡 This project helped me improve my react concepts.
