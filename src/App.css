@@ -1,0 +1,26 @@
+.container{
+  text-align: center;
+  background-color: aliceblue;
+  color: aqua;
+}
+
+h1{
+  font-weight: 600;
+  font-size: 45px;
+  margin: 10px;
+  margin-bottom: 20px;
+}
+
+input{
+  width: 100%;
+  color: aqua;
+}
+
+.kg-row{
+  margin: 10px 5px;
+  font-size: 20px;
+}
+
+.kg-bt{
+  min-width: 80;
+}
