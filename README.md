@@ -63,6 +63,8 @@ react-todo-app
 
 ```
 
+💡 This project helped me improve my react concepts.
+
 ## 👨‍💻 Author
 
 **Kashan Ghori**  
@@ -70,4 +72,10 @@ react-todo-app
 
 ---
 
-💡 This project helped me improve my react concepts.
+## 🤝 Connect with Me
+
+Feel free to connect with me on LinkedIn and check out my projects!
+
+---
+
+⭐ If you like this project, don't forget to star the repository!
