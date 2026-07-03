@@ -9,9 +9,7 @@ This project allows users to add and delete todo tasks with a clean user interfa
 
 ![Add-Todo](./screenshots/todo-added.png)
 
-## 🔗 Live Demo
-
-https://KG-SE.github.io/react-todo-app/
+[🔗 Live Demo](https://KG-SE.github.io/react-todo-app/)
 
 ## 📌 Features
 
