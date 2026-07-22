@@ -1,18 +1,30 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
 .container{
   text-align: center;
   background-color: aliceblue;
   color: aqua;
+  width: 90%;
+  max-width: 700px;
+  margin: 30px auto;
+  padding: 20px;
+  border-radius: 12px;
 }
 
 h1{
   font-weight: 600;
   font-size: 45px;
-  margin: 10px;
   margin-bottom: 20px;
 }
 
 input{
   width: 100%;
+  padding: 10px;
+  font-size: 18px;
   color: aqua;
 }
 
@@ -22,5 +34,63 @@ input{
 }
 
 .kg-bt{
-  min-width: 80;
+  min-width: 80px;
+}
+
+/* ========== Tablet ========== */
+@media (max-width: 768px){
+
+  .container{
+    width: 95%;
+    padding: 18px;
+  }
+
+  h1{
+    font-size: 36px;
+  }
+
+  input{
+    font-size: 16px;
+  }
+
+  .kg-row{
+    font-size: 18px;
+  }
+
+  .kg-bt{
+    width: 100%;
+    margin-top: 8px;
+  }
+
+}
+
+/* ========== Mobile ========== */
+@media (max-width: 480px){
+
+  .container{
+    width: 100%;
+    padding: 15px;
+    border-radius: 0;
+  }
+
+  h1{
+    font-size: 28px;
+  }
+
+  input{
+    font-size: 15px;
+    padding: 8px;
+  }
+
+  .kg-row{
+    font-size: 16px;
+    margin: 8px 0;
+  }
+
+  .kg-bt{
+    width: 100%;
+    font-size: 15px;
+    padding: 8px;
+  }
+
 }

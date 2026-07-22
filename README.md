@@ -1,6 +1,6 @@
 # React Todo App 🚀
 
-A simple and responsive Todo application built with React JS with Context API & useReducer for efficient state management.  
+A simple and responsive Todo application built with React.js.  
 This project allows users to add and delete todo tasks with a clean user interface.
 
 ## 📸 Previews
@@ -24,8 +24,10 @@ This project allows users to add and delete todo tasks with a clean user interfa
 
 - HTML5
 - CSS3
-- JavaScript (ES6)
-- React JS
+- JavaScript (ES6+)
+- React.js
+- Context API
+- useReducer
 - Bootstrap
 - React Icons
 - Vite
@@ -62,6 +64,18 @@ react-todo-app
 
 💡 This project helped me improve my react concepts.
 
+---
+
+## 🤝 Connect with Me
+
+Feel free to connect with me on LinkedIn and check out my projects!
+
+Linkedin (https://www.linkedin.com/in/kashan-ghori-9b50b43b4)
+
+⭐ If you like this project, don't forget to star the repository!
+
+---
+
 ## 👨‍💻 Author
 
 **Kashan Ghori**  
@@ -69,10 +83,4 @@ react-todo-app
 
 ---
 
-## 🤝 Connect with Me
-
-Feel free to connect with me on LinkedIn and check out my projects!
-
----
-
-⭐ If you like this project, don't forget to star the repository!
+💡 This project helped me improve my react concepts.
