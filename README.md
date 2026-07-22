@@ -70,13 +70,13 @@ react-todo-app
 
 Feel free to connect with me on LinkedIn and check out my projects!
 
-Linkedin (https://www.linkedin.com/in/kashan-ghori-9b50b43b4)
-
 ⭐ If you like this project, don't forget to star the repository!
+
+[🔗Linkedin](https://www.linkedin.com/in/kashan-ghori-9b50b43b4)
+[🔗GitHub](https://github.com/KG-SE)
 
 ---
 
 ## 👨‍💻 Author
 
-**Kashan Ghori**  
-🔗 https://github.com/KG-SE
+**Kashan Ghori**
