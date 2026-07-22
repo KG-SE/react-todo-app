@@ -68,29 +68,31 @@ input{
 @media (max-width: 480px){
 
   .container{
-    width: 100%;
+    width: 95%;
+    margin: 20px auto;
     padding: 15px;
-    border-radius: 0;
-  }
-
-  h1{
-    font-size: 28px;
-  }
-
-  input{
-    font-size: 15px;
-    padding: 8px;
+    border-radius: 10px;
+    overflow: hidden;
   }
 
   .kg-row{
-    font-size: 16px;
     margin: 8px 0;
+    align-items: center;
+  }
+
+  .kg-row > div{
+    margin-bottom: 8px;
   }
 
   .kg-bt{
     width: 100%;
+    min-width: 0;
+    padding: 10px;
     font-size: 15px;
-    padding: 8px;
+  }
+
+  input{
+    width: 100%;
   }
 
 }

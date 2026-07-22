@@ -5,8 +5,8 @@ function Todoitem({todoName,todoDate}){
 
   const {deleteItem} = useContext(TodoItemsContext)
 return <div className="container">
-  <div class="row kg-row">
-    <div class="col-6">
+  <div className="row kg-row">
+    <div className="col-6">
       {todoName}
       </div>
     
